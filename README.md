@@ -33,7 +33,7 @@ This project uses the following tools and libraries:
 ## 📁 Repository Contents
 
 - `Bridge Decay Prediction .ipynb`: Jupyter Notebook with data analysis and predictive modeling steps  
-- `Newyork_map.pdf`: A map showing bridge type distributions in New York  
+- `Newyork_Bridge_Prediction_map.pdf`: A map showing bridge type distributions in New York  
 - `README.md`: This file — updated to explain the project
 
 ---
